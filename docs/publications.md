@@ -1,6 +1,5 @@
 # Publications
 
-
 ## 2025
 
 <div class="publication-card">
@@ -52,6 +51,8 @@
         </div>
     </div>
 </div>
+
+<hr class="section-divider">
 
 ## 2024
 
@@ -133,6 +134,8 @@
 </div>
 
 
+<hr class="section-divider">
+
 ## 2023
 
 <div class="publication-card">
@@ -184,6 +187,7 @@
     </div>
 </div>
 
+<hr class="section-divider">
 
 ## 2022
 

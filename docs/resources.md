@@ -35,8 +35,22 @@ Useful cheatsheets and reference materials.
     </a>
 </div>
 
+<hr class="section-divider">
 
-<div class="prose" id="about-content"></div>
+## Posters
 
-<h2>GitHub activity</h2>
+<hr class="section-divider">
+
+## Google Scholar
+
+<div class="mini-bars" style="--max:60;">
+  <div class="bar" style="--h:1"><span>2022</span></div>
+  <div class="bar" style="--h:4"><span>2023</span></div>
+  <div class="bar" style="--h:26"><span>2024</span></div>
+  <div class="bar" style="--h:44"><span>2025</span></div>
+  <div class="bar" style="--h:13"><span>2026</span></div>
+</div>
+
+## GitHub activity
+
 <img class="gh-heatmap" src="https://ghchart.rshah.org/goznalo-git" alt="GitHub contributions heatmap">
