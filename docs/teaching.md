@@ -66,7 +66,17 @@ Some random materials I've written over the years for different courses and purp
 <div class="materials-grid">
 
   <div class="material-card">
-    <a class="material-link" target="_blank" href="../assets/teaching/ps1.pdf">
+    <a class="material-link" target="_blank" href="../assets/materials/ps1.pdf">
+      <div class="material-top">
+        <span class="material-icon">🕸</span>
+        <span class="material-title">Step-by-step derivation: Kuramoto mean field (Ott-Antonsen ansatz)</span>
+      </div>
+    </a>
+    <div class="material-desc">A detailed derivation of the celebrated order parameter equation.</div>
+  </div>
+
+  <div class="material-card">
+    <a class="material-link" target="_blank" href="../assets/materials/ps1.pdf">
       <div class="material-top">
         <span class="material-icon">📜</span>
         <span class="material-title">Lecture notes: Linear Algebra (in spanish)</span>
@@ -76,7 +86,7 @@ Some random materials I've written over the years for different courses and purp
   </div>
 
   <div class="material-card">
-    <a class="material-link" target="_blank" href="../assets/teaching/String_Theory_Ext.pdf">
+    <a class="material-link" target="_blank" href="../assets/materials/String_Theory_Ext.pdf">
       <div class="material-top">
         <span class="material-icon">📜</span>
         <span class="material-title">Lecture notes: String Theory and the AdS/CFT correspondence</span>
@@ -86,7 +96,7 @@ Some random materials I've written over the years for different courses and purp
   </div>
 
   <div class="material-card">
-    <a class="material-link" target="_blank" href="../assets/teaching/Entregables_CamposCuanticos.pdf">
+    <a class="material-link" target="_blank" href="../assets/materials/Entregables_CamposCuanticos.pdf">
       <div class="material-top">
         <span class="material-icon">📝</span>
         <span class="material-title">Collection of problems: Quantum Field Theory (in spanish)</span>
@@ -96,7 +106,7 @@ Some random materials I've written over the years for different courses and purp
   </div>
 
   <div class="material-card">
-    <a class="material-link" target="_blank" href="../assets/teaching/Cosmologia.pdf">
+    <a class="material-link" target="_blank" href="../assets/materials/Cosmologia.pdf">
       <div class="material-top">
         <span class="material-icon">📜</span>
         <span class="material-title">Lecture notes: Cosmology (in spanish)</span>
