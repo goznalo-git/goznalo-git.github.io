@@ -66,7 +66,7 @@ Some random materials I've written over the years for different courses and purp
 <div class="materials-grid">
 
   <div class="material-card">
-    <a class="material-link" target="_blank" href="../assets/materials/ps1.pdf">
+    <a class="material-link" target="_blank" href="../assets/materials/Ott-Antonsen_derivation.pdf">
       <div class="material-top">
         <span class="material-icon">🕸</span>
         <span class="material-title">Step-by-step derivation: Kuramoto mean field (Ott-Antonsen ansatz)</span>
@@ -76,7 +76,7 @@ Some random materials I've written over the years for different courses and purp
   </div>
 
   <div class="material-card">
-    <a class="material-link" target="_blank" href="../assets/materials/ps1.pdf">
+    <a class="material-link" target="_blank" href="../assets/materials/LinearAlgebra.pdf">
       <div class="material-top">
         <span class="material-icon">📜</span>
         <span class="material-title">Lecture notes: Linear Algebra (in spanish)</span>
