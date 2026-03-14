@@ -1498,6 +1498,24 @@ html {
   padding: 10px 6px 26px;
 }
 
+
+.charts-row {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  flex-wrap: wrap; /* lets them stack on small screens */
+}
+
+.chart-box {
+  flex: 1 1 300px;
+}
+
+.chart-box h3 {
+  margin: 0 0 0.75rem;
+  font-size: 1rem;
+  text-align: center;
+}
+
 .mini-bars{
   height: 100%;
   display:flex;
@@ -1505,6 +1523,7 @@ html {
   align-items:flex-end;
   justify-content: center;  
 }
+
 
 .bar{
   width: 12px;
