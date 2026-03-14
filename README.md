@@ -2,7 +2,7 @@
 
 My personal portfolio website.
 
-**Live site:** [gonzalo.co.uk](https://goznalo-git.github.io)
+**Live site:** [goznalo-git.github.io](https://goznalo-git.github.io)
 
 
 ## Tech Stack
