@@ -7,7 +7,7 @@ While I think Overleaf is great, the amount of terrible templates uploaded there
 
 
 <div class="resources-grid">
-    <a href="assets/tex_templates/Presentations.zip" class="resource-card" download>
+    <a href="../assets/tex_templates/Presentations.zip" class="resource-card" download="Presentations.zip">
         <div class="resource-preview resource-preview-icon">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
@@ -22,7 +22,7 @@ While I think Overleaf is great, the amount of terrible templates uploaded there
         </div>
         <div class="resource-name">Presentations</div>
     </a>
-    <a href="assets/tex_templates/Posters.zip" class="resource-card" download>
+    <a href="../assets/tex_templates/Posters.zip" class="resource-card" download>
         <div class="resource-preview resource-preview-icon">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
@@ -37,7 +37,7 @@ While I think Overleaf is great, the amount of terrible templates uploaded there
         </div>
         <div class="resource-name">Posters</div>
     </a>
-    <a href="assets/tex_templates/Letters.zip" class="resource-card" download>
+    <a href="../assets/tex_templates/Letters.zip" class="resource-card" download>
         <div class="resource-preview resource-preview-icon">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
@@ -52,7 +52,7 @@ While I think Overleaf is great, the amount of terrible templates uploaded there
         </div>
         <div class="resource-name">Formal letters</div>
     </a>
-    <a href="assets/tex_templates/LectureNotes.zip" class="resource-card" download>
+    <a href="../assets/tex_templates/LectureNotes.zip" class="resource-card" download>
         <div class="resource-preview resource-preview-icon">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
@@ -67,7 +67,7 @@ While I think Overleaf is great, the amount of terrible templates uploaded there
         </div>
         <div class="resource-name">Lecture notes</div>
     </a>
-    <a href="assets/tex_templates/Assignments.zip" class="resource-card" download>
+    <a href="../assets/tex_templates/Assignments.zip" class="resource-card" download>
         <div class="resource-preview resource-preview-icon">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
