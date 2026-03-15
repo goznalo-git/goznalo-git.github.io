@@ -35,7 +35,7 @@
 
 I am a theoretical physicists / applied mathematician (more the former than the latter), working in areas such as complex networks and nonlinear dynamics. My scientific interests, however, are much wider than that, spanning pure mathematics to computer science. My nonscientific interests are quite varied; I play the guitar and I am passionate about all sorts of music (alternative rock, jazz, electronic music, hip-hop, metal, funk...). I also frequently go to the cinema, and at some point in the past I had a podcast. 
 
-Nevertheless, this is a "professional" website, hence here's a non-exclusive list of scientific topics I am interested in, should you want to contact me about any:
+Nevertheless, this is a "professional" website, hence here's a non-exclusive list of scientific topics I am working or have worked on, should you want to contact me about any:
 - **Nonlinear dynamics, bifurcation theory**. Lately I have been working on models of pattern formation and dislocation dynamics, as well as the interaction of topological vortices. I also have some unpublished work on the timbrical properties of bird syllables, understood through the lens of bifurcations in dynamical systems. 
 - **Complex networks, dynamical aspects**. I had the opportunity to participate in a series of projects on the synchronization of chaotic oscillators in networks, and those works triggered my interest in the subject of synchronization, and the broader topic of networked dynamical systems. Currently, I am involved in a couple of projects related to the dynamics of excitable systems under synaptic coupling, and the relation between phase oscillators and surface growth models.  
 - **Complex networks, structural aspects**. Most of my doctoral research was about spectral centrality measures in graphs, and I quite like the fact that relatively simple mathematics (e.g., linear algebra) allow for a quantitative characterization of a variety of network properties. I have also worked on hypergraphs, although I have been losing interest in them for a while (and apparently [I am not alone](https://arxiv.org/abs/2602.16937) in that regard).
@@ -45,4 +45,10 @@ It's been a while, but I also used to code stuff for fun in my free time. I prog
 
 Ah, and I also like outreach, quite a lot. Actually I will be releasing something in this direction, hopefully soon.
 
+Long live the FSM. 
+
 <!--While from an outsider point of view it might seem like my path was straight, it surely was full of missteps and turning points. I fell in love with theoretical, very mathematical physics (high energy stuff, strings, black holes and the like), pursuing it to the point of frustration. I left academia for a while, which allowed me to have fun again with things I had abandoned, such as programming. Nevertheless, there as always a "scientific itch" which I wanted to scratch, and when given the opportunity to pursue a Ph.D. I took it. It was in an appealing topic (mathematics of complex networks, spectral centrality measures in particular), though completely foreign to me. During this phase of my life I met several physicists who inspired me to bring physics into my research, to the point that I am currently mostly interested in dynamics (synchronization, bifurcation theory, chaos).-->
+
+
+<img src="assets/FSM_white.png" alt="…" class="theme-img theme-img-dark">
+<img src="assets/FSM_black.png" alt="…" class="theme-img theme-img-light">
