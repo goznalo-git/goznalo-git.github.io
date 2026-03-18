@@ -5,13 +5,15 @@ While I am against the number of papers and their citations measuring actual sci
 <div class="charts-row">
 
   <div class="chart-box">
-    <h3>Scientific production (# papers/preprints)</h3>
+    <h3>Scientific production</h3>
     <div class="mini-bars" style="--max:4.09;">
       <div class="bar" style="--h:2"><span>2022</span></div>
       <div class="bar" style="--h:2"><span>2023</span></div>
       <div class="bar" style="--h:3"><span>2024</span></div>
-      <div class="bar" style="--h:2"><span>2025</span></div>
+      <div class="bar" style="--h:1"><span>2025</span></div>
       <div class="bar" style="--h:0"><span>2026</span></div>
+      <div class="bar" style="--h:0"><span></span></div>
+      <div class="bar" style="--h:1"><span>Preprints</span></div>
     </div>
   </div>
 
@@ -22,7 +24,7 @@ While I am against the number of papers and their citations measuring actual sci
       <div class="bar" style="--h:4"><span>2023</span></div>
       <div class="bar" style="--h:26"><span>2024</span></div>
       <div class="bar" style="--h:44"><span>2025</span></div>
-      <div class="bar" style="--h:14"><span>2026</span></div>
+      <div class="bar" style="--h:15"><span>2026</span></div>
     </div>
   </div>
 
