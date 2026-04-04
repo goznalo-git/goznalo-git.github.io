@@ -45,7 +45,7 @@ Nevertheless, this is a "professional" website, hence here's a non-exclusive lis
 - **Complex networks, structural aspects**. Most of my doctoral research was about spectral centrality measures in graphs, and I quite like the fact that relatively simple mathematics (e.g., linear algebra) allow for a quantitative characterization of a variety of network properties. I have also worked on hypergraphs, although I have been losing interest in them for a while (and apparently [I am not alone in that regard](https://arxiv.org/abs/2602.16937)).
 - **Theoretical and mathematical physics**, in general. No surprise, given that my master's was in high energy physics stuff (black holes, strings, cosmology, AdS/CFT). While I haven't worked on that for years, I still find it fascinating.  
 
-It's been a while, but I also used to code stuff for fun in my free time. I programmed things such as a [markovian guitar tablature generator](https://github.com/goznalo-git/MarkovPlaysTheGuitar), or an [visualizer of audiowaves/spectrograms](https://github.com/goznalo-git/AudioWaves) since I didn't like the ones I found (although I never got to finish it). 
+It's been a while, but I also used to code stuff for fun in my free time. I programmed things such as a [markovian guitar tablature generator](https://github.com/goznalo-git/MarkovPlaysTheGuitar), or a [visualizer of audiowaves/spectrograms](https://github.com/goznalo-git/AudioWaves) since I didn't like the ones I found (although I never got to finish it). 
 
 Ah, and I also like outreach, quite a lot. Actually I will be releasing something in this direction, hopefully soon.
 

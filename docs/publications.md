@@ -11,9 +11,9 @@ While I am against the number of papers and their citations measuring actual sci
       <div class="bar" style="--h:2"><span>2023</span></div>
       <div class="bar" style="--h:3"><span>2024</span></div>
       <div class="bar" style="--h:1"><span>2025</span></div>
-      <div class="bar" style="--h:0"><span>2026</span></div>
+      <div class="bar" style="--h:1"><span>2026</span></div>
       <div class="bar" style="--h:0"><span></span></div>
-      <div class="bar" style="--h:1"><span>Preprints</span></div>
+      <!--<div class="bar" style="--h:1"><span>Preprints</span></div>-->
     </div>
   </div>
 
@@ -38,11 +38,11 @@ While I am against the number of papers and their citations measuring actual sci
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="" class="publication-link">
+            <a href="https://doi.org/10.1038/s42005-026-02543-5" class="publication-link">
                 Equitability and explosive synchronisation in multiplex and higher-order networks
             </a>
         </h3>
-        <div class="publication-venue">UNDER REVIEW</div>
+        <div class="publication-venue">Communications Physics, 9, 117 (2026)</div>
         <div class="publication-authors">K. Kovalenko, <b>G. Contreras-Aso</b>, Charo I. del Genio, S. Boccaletti, R. J. Sánchez-García</div>
         <div class="publication-year">
         We delve into the matter of the existence of a synchronized solution (something much less discussed than its stability) in standard, multiplex and higher order networks, and clarify its relation with other concepts such as equitability, introducing the novel ideas of dynamical equitability. 

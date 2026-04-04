@@ -1254,14 +1254,15 @@ html {
     color: color-mix(in srgb, var(--color-accent-2) 65%, transparent);
 }
 
-.timeline-meta {
-    margin-top: 0.25rem;
+.timeline-desc {
     font-size: 0.9rem;
-    color: color-mix(in srgb, var(--color-accent-2) 75%, transparent);
+    margin-top: 0.5rem;
 }
 
-.timeline-desc {
-    margin-top: 0.5rem;
+.timeline-meta {
+    margin-top: 0.25rem;
+    font-size: 0.8rem;
+    color: color-mix(in srgb, var(--color-accent-2) 75%, transparent);
 }
 
 @media (max-width: 640px) {
