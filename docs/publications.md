@@ -21,15 +21,17 @@ While I am against the number of papers and their citations measuring actual sci
     <h3>Citations, according to Google Scholar</h3>
     <div class="mini-bars" style="--max:60;">
       <div class="bar" style="--h:1"><span>2022</span></div>
-      <div class="bar" style="--h:4"><span>2023</span></div>
-      <div class="bar" style="--h:26"><span>2024</span></div>
-      <div class="bar" style="--h:44"><span>2025</span></div>
-      <div class="bar" style="--h:15"><span>2026</span></div>
+      <div class="bar" style="--h:3"><span>2023</span></div>
+      <div class="bar" style="--h:27"><span>2024</span></div>
+      <div class="bar" style="--h:43"><span>2025</span></div>
+      <div class="bar" style="--h:31"><span>2026</span></div>
     </div>
   </div>
 
 </div>
 
+<hr class="section-divider">
+    
 ## 2025
 
 <div class="publication-card">

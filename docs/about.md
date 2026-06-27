@@ -1,7 +1,7 @@
 <div class="about-header">
   <img src="assets/profile.jpg" alt="Portrait of J Rosser" class="about-avatar" width="160" height="160" loading="lazy" />
   <div class="about-header-content">
-    <h1 class="title">Hola, aquí Gonzalo!</h1>
+    <h1 class="title">Hi, I'm Gonzalo!</h1>
     <div class="about-socials" style="display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;margin-top:0.5rem;">
   <a href="https://scholar.google.com/citations?user=hfQKzTYAAAAJ&hl=en" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:var(--color-accent-2);">
     <svg viewBox="0 0 24 24" role="img" aria-hidden="true" style="width:20px;height:20px;opacity:0.9;" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
@@ -37,7 +37,7 @@
   </div>
 </div>
 
-I am a theoretical physicists / applied mathematician (more the former than the latter), working in areas such as complex networks and nonlinear dynamics. My scientific interests, however, are much wider than that, spanning pure mathematics to computer science. My nonscientific interests are quite varied; I play the guitar and I am passionate about all sorts of music (alternative rock, jazz, electronic music, hip-hop, metal, funk...). I also frequently go to the cinema, and at some point in the past I had a podcast. 
+I am a theoretical physicist / applied mathematician (more the former than the latter), working in areas such as complex networks and nonlinear dynamics. My scientific interests, however, are much wider than that, spanning pure mathematics to computer science. My nonscientific interests are quite varied; I play the guitar and I am passionate about all sorts of music (alternative rock, jazz, electronic music, hip-hop, metal, funk...). I also frequently go to the cinema, and at some point in the past I had a podcast. 
 
 Nevertheless, this is a "professional" website, hence here's a non-exclusive list of scientific topics I am working or have worked on, should you want to contact me about any:
 - **Nonlinear dynamics, bifurcation theory**. Lately I have been working on models of [pattern formation](https://www.youtube.com/watch?v=icQ_BTtNGEo) and dislocation dynamics, as well as the interaction of topological vortices. I also have some unpublished work on the timbrical properties of bird syllables, understood through the lens of bifurcations in dynamical systems. 

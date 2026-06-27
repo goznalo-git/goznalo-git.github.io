@@ -1,5 +1,7 @@
 # Teaching
 
+I've been teaching for the last 5+ years. Here's a summary.
+
 ## Courses
 
 <div class="teaching-accordion">
@@ -49,7 +51,7 @@
       <div><strong>When:</strong> 2018-2019</div>
       <div><strong>Where:</strong> University of Amsterdam</div>
       <div><strong>Degree:</strong> BSc Physics</div>
-      <div class="course-desc">Complex analysis: Cauchy-Riemann equations, Laurent expansions and contour integration. Special functions (Gamma Γ, Beta B, Riemann zeta ζ)</div>
+      <div class="course-desc">Complex analysis: Cauchy-Riemann equations, Laurent expansions and contour integration. Special functions (Gamma Γ, Beta B, Riemann zeta ζ).</div>
     </div>
   </details>
 </div>

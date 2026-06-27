@@ -88,6 +88,7 @@ While I think Overleaf is great, the amount of terrible templates uploaded there
 
 **Note (II)**: these all compile correctly, at least in Overleaf, but some require the XeLaTeX compiler while others the pdfLatex one.
 
+<hr class="section-divider">
 
 ## Posters
 
@@ -115,7 +116,6 @@ Some examples of posters I've presented in the past.
 </div>
 
 <hr class="section-divider">
-
 
 ## GitHub activity
 
