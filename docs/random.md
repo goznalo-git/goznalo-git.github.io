@@ -1,5 +1,6 @@
 # Random stuff
 
+A collection of things gathering some dust.
 
 ## LaTeX templates
 
@@ -115,8 +116,8 @@ Some examples of posters I've presented in the past.
     </a>
 </div>
 
+<!--
 <hr class="section-divider">
-
 ## GitHub activity
 
-<img class="gh-heatmap" src="https://ghchart.rshah.org/goznalo-git" alt="GitHub contributions heatmap">
+<img class="gh-heatmap" src="https://ghchart.rshah.org/goznalo-git" alt="GitHub contributions heatmap">-->

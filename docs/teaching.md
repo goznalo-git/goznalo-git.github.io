@@ -5,20 +5,31 @@ I've been teaching for the last 5+ years. Here's a summary.
 ## Courses
 
 <div class="teaching-accordion">
+
   <details class="teaching-course">
     <summary><span class="course-name">Linear Algebra</span></summary>
     <div class="course-meta">
       <div><strong>When:</strong> 2025–</div>
       <div><strong>Where:</strong> Universidad Carlos III de Madrid</div>
-      <div><strong>Degree:</strong> BSc Electrical Engineering</div>
+      <div><strong>Degree:</strong> BSc Electrical Engineering, BSc Industrial Engineering, BSc Telecommunication Technologies</div>
       <div class="course-desc">Linear systems, vector and matrix operations and properties. Vector spaces, diagonalization and inner product.</div>
     </div>
   </details>
 
   <details class="teaching-course">
+    <summary><span class="course-name">Calculus III</span></summary>
+    <div class="course-meta">
+      <div><strong>When:</strong> 2026-</div>
+      <div><strong>Where:</strong> Universidad Carlos III de Madrid</div>
+      <div><strong>Degree:</strong> BSc Industrial Engineering</div>
+      <div class="course-desc"> Ordinary differential equations. Laplace transform. Introduction to partial differential equations. Sturm-Liouville problems </div>
+    </div>
+  </details>
+  
+  <details class="teaching-course">
     <summary><span class="course-name">Calculus II</span></summary>
     <div class="course-meta">
-      <div><strong>When:</strong> 2022–2024, 2026–</div>
+      <div><strong>When:</strong> 2022–2024, 2026</div>
       <div><strong>Where:</strong> Universidad Rey Juan Carlos, Universidad Carlos III de Madrid</div>
       <div><strong>Degree:</strong> BSc Experimental Sciences, BSc Energy Engineering, BSc Aerospacial Engineering</div>
       <div class="course-desc">Multivariable calculus: limits, derivatives, integrals. Curvilinear coordinates. Green, Gauss and Stokes' theorems.</div>
@@ -28,7 +39,7 @@ I've been teaching for the last 5+ years. Here's a summary.
   <details class="teaching-course">
     <summary><span class="course-name">Calculus I</span></summary>
     <div class="course-meta">
-      <div><strong>When:</strong> 2022–</div>
+      <div><strong>When:</strong> 2022–2026</div>
       <div><strong>Where:</strong> Universidad Rey Juan Carlos, Universidad Carlos III de Madrid</div>
       <div><strong>Degree:</strong> BSc Software Engineering, BSc Biology, BSc Artificial Intelligence</div>
       <div class="course-desc">Single-variable calculus: limits, derivatives and integrals. Induction, sequences and series. Taylor's polynomial.</div>
@@ -75,6 +86,16 @@ Some random materials I've written over the years for different courses and purp
       </div>
     </a>
     <div class="material-desc">A detailed derivation of the celebrated order parameter equation.</div>
+  </div>
+
+  <div class="material-card">
+    <a class="material-link" target="_blank" href="https://doi.org/10.33732/FD.v2026.n5.32">
+      <div class="material-top">
+        <span class="material-icon">📜</span>
+        <span class="material-title">Complex numbers: properties and operations (in spanish)</span>
+      </div>
+    </a>
+    <div class="material-desc">Open acess teaching publication, in the Journal <em>Forum Docentis, 5, e32 (2026)</em>.</div>
   </div>
 
   <div class="material-card">
