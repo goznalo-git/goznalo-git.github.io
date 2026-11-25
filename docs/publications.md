@@ -36,6 +36,8 @@ While I am against the number of papers and their citations measuring actual sci
     
 ## 2026
 
+
+
 <div class="publication-card">
     <div class="publication-image">
         <img style="background: #fff" src="../assets/paper_thumbnails/phasediagram.png" alt="Excitability publication">
@@ -55,6 +57,7 @@ While I am against the number of papers and their citations measuring actual sci
             <span class="tag tag-safety">Synchronization</span>
             <span class="tag tag-safety">Excitability</span>
             <span class="tag tag-safety">Bifurcation theory</span>
+            <a href="https://arxiv.org/abs/2611.32826" class="tag tag-arxiv">ARXIV</a>
         </div>
     </div>
 </div>
