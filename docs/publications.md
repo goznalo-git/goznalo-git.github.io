@@ -11,7 +11,7 @@ While I am against the number of papers and their citations measuring actual sci
       <div class="bar" style="--h:2"><span>2023</span></div>
       <div class="bar" style="--h:3"><span>2024</span></div>
       <div class="bar" style="--h:1"><span>2025</span></div>
-      <div class="bar" style="--h:1"><span>2026</span></div>
+      <div class="bar" style="--h:2"><span>2026</span></div>
       <div class="bar" style="--h:0"><span></span></div>
       <!--<div class="bar" style="--h:1"><span>Preprints</span></div>-->
     </div>
@@ -23,16 +23,43 @@ While I am against the number of papers and their citations measuring actual sci
       <div class="bar" style="--h:1"><span>2022</span></div>
       <div class="bar" style="--h:10"><span>2023</span></div>
       <div class="bar" style="--h:20"><span>2024</span></div>
-      <div class="bar" style="--h:41"><span>2025</span></div>
-      <div class="bar" style="--h:43"><span>2026</span></div>
+      <div class="bar" style="--h:40"><span>2025</span></div>
+      <div class="bar" style="--h:64"><span>2026</span></div>
     </div>
   </div>
 
 </div>
 
 <hr class="section-divider">
+
+<br>
     
-## 2025
+## 2026
+
+<div class="publication-card">
+    <div class="publication-image">
+        <img style="background: #fff" src="../assets/paper_thumbnails/phasediagram.png" alt="Excitability publication">
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href=".." class="publication-link">
+                Torus breakdown and collective chaos in heterogeneously forced excitatory–inhibitory neural populations with cascaded synapses
+            </a>
+        </h3>
+        <div class="publication-venue">Preprint (under review)</div>
+        <div class="publication-authors"><b>G. Contreras-Aso</b>, F.J. Marín-Rodríguez, G.B. Mindlin</div>
+        <div class="publication-year">
+            The low-dimensional dynamics of an ensemble of neurons with second-order synapses is characterized. Then, we study how chaos unfolds when a subpopulation is subject to forcing, and how heterogeneity and forcing amplitude are two (almost) equivalent paths to the same behavior.
+        </div>
+        <div class="publication-tags">
+            <span class="tag tag-safety">Synchronization</span>
+            <span class="tag tag-safety">Excitability</span>
+            <span class="tag tag-safety">Bifurcation theory</span>
+        </div>
+    </div>
+</div>
+
+
 
 <div class="publication-card">
     <div class="publication-image">
@@ -45,7 +72,7 @@ While I am against the number of papers and their citations measuring actual sci
             </a>
         </h3>
         <div class="publication-venue">Communications Physics, 9, 117 (2026)</div>
-        <div class="publication-authors">K. Kovalenko, <b>G. Contreras-Aso</b>, Charo I. del Genio, S. Boccaletti, R. J. Sánchez-García</div>
+        <div class="publication-authors">K. Kovalenko, <b>G. Contreras-Aso</b>, C.I. del Genio, S. Boccaletti, R.J. Sánchez-García</div>
         <div class="publication-year">
         We delve into the matter of the existence of a synchronized solution (something much less discussed than its stability) in standard, multiplex and higher order networks, and clarify its relation with other concepts such as equitability, introducing the novel ideas of dynamical equitability. 
         </div>
@@ -60,6 +87,8 @@ While I am against the number of papers and their citations measuring actual sci
     </div>
 </div>
 
+## 2025
+
 <div class="publication-card">
     <div class="publication-image">
         <img style="background: #fff" src="../assets/paper_thumbnails/selfloop_N8.png" alt="FullyPR publication">
@@ -73,7 +102,7 @@ While I am against the number of papers and their citations measuring actual sci
         <div class="publication-venue">Computational and Applied Mathematics, 44, 383 (2025)</div>
         <div class="publication-authors"><b>G. Contreras-Aso</b>, R. Criado, M. Romance</div>
         <div class="publication-year">
-        We provide a fully personalized generalization of PageRank consisting of both damping personalization as well as teleportation personalization, and we study its controllability properties. 
+        A fully personalized generalization of PageRank is proposed, consisting of both damping personalization as well as teleportation personalization. We study its structural controllability properties. 
         </div>
         <!-- <div class="publication-year">2025</div> -->
         <div class="publication-tags">
@@ -126,7 +155,7 @@ While I am against the number of papers and their citations measuring actual sci
         <div class="publication-venue">Journal of Complex Networks, Vol 12, Issue 5 (2024)</div>
         <div class="publication-authors"><b>G. Contreras-Aso</b>, R. Criado, M. Romance</div>
         <div class="publication-year">
-        We provide an alternative definition of non-undirectedness (i.e. heterogeneity) in hypergraphs, beyond traditional definitions of directed hypergraphs which rely on set-theoretic notions. We discuss different examples of heterogeneous hypergraphs, focusing on their spectral centralities.
+        An alternative definition of non-undirectedness (i.e. heterogeneity) in hypergraphs is put forward, beyond traditional definitions of directed hypergraphs which rely on set-theoretic notions. We discuss different examples of heterogeneous hypergraphs, focusing on their spectral centralities.
         </div>
         <!-- <div class="publication-year">2024</div> -->
         <div class="publication-tags">
@@ -150,7 +179,7 @@ While I am against the number of papers and their citations measuring actual sci
             </a>
         </h3>
         <div class="publication-venue">Nature Communications, 15, 4955 (2024)</div>
-        <div class="publication-authors">A. Bayani, F. Nazarimehr, S. Jafari, K. Kovalenko, <b>G. Contreras-Aso</b>, K. Alfaro-Bittner, R. J. Sánchez-García, S. Boccaletti</div>
+        <div class="publication-authors">A. Bayani, F. Nazarimehr, S. Jafari, K. Kovalenko, <b>G. Contreras-Aso</b>, K. Alfaro-Bittner, R.J. Sánchez-García, S. Boccaletti</div>
         <div class="publication-year">
         In this work, the path to synchronization is fully characterized, in the sense that we find a way to predict analytically which clusters can each node belong to, and furthermore we obtain the value of the coupling at which each cluster synchronizes. 
         </div>
@@ -236,7 +265,7 @@ While I am against the number of papers and their citations measuring actual sci
         <div class="publication-venue">Chaos, Vol 33, 083152 (2023)</div>
         <div class="publication-authors"><b>G. Contreras-Aso</b>, R. Criado, M. Romance</div>
         <div class="publication-year">
-        We obtain some analytical results concerning how controllable the PageRank centrality measure is. For that we develop a novel geometrical approach to centrality rankings, which renders the controllability question almost trivial to answer.
+        We obtain analytical results concerning how controllable the PageRank centrality measure is. For that we develop a novel geometrical approach to centrality rankings, which renders the controllability question amenable to quantitative analysis.
         </div>
         <!-- <div class="publication-year">2022</div> -->
         <div class="publication-tags">
@@ -261,7 +290,7 @@ While I am against the number of papers and their citations measuring actual sci
         <div class="publication-venue">Chaos, Solitons and Fractals, Vol 161, 112310, Aug 2022</div>
         <div class="publication-authors">D. Aleja, <b>G. Contreras-Aso</b>, K. Alfaro-Bittner, E. Primo, R. Criado, M. Romance, S. Boccaletti</div>
         <div class="publication-year">
-        We attempted to model the effect (in terms of damage) of the spread of a computer virus through a network, in terms of a vectorial compartmental model. The dependence of the final damage on the network's topology is discussed, as well as different viral behaviors.
+        The effect (in terms of damage) of the spread of a computer virus through a network is modelled, in terms of a vectorial compartmental model. The dependence of the final damage on the network's topology is discussed, as well as different viral behaviors.
         </div>
         <!-- <div class="publication-year">2022</div> -->
         <div class="publication-tags">

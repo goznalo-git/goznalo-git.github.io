@@ -67,7 +67,7 @@ I've been teaching for the last 5+ years. Here's a summary.
   </details>
 </div>
 
-3 Bachelor's theses supervised. 1 Master's thesis currently supervising. 
+3 Bachelor's theses supervised. 1 Master's thesis currently supervised, 1 currently supervising. 
 
 
 <hr class="section-divider">

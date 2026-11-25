@@ -12,7 +12,7 @@
     </div>
       <span class="timeline-role">Universidad Carlos III de Madrid</span>
     <div class="timeline-desc">Departament of Mathematics.</div>
-    <div class="timeline-meta">Member of GISC (Interdisciplinary Complex Systems Group).</div>
+    <div class="timeline-meta">Member of <a target="_blank" href="https://gisc.uc3m.es/">GISC (Interdisciplinary Complex Systems Group)</a>.</div>
   </div>
 
   <div class="timeline-item">
@@ -39,10 +39,10 @@
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">Master in Advanced Physics</span>
-      <span class="timeline-dates">Oct 2021 – <strong class="text-accent">Present</strong></span>
+      <span class="timeline-dates">Oct 2021 – Oct 2026</span>
     </div>
       <span class="timeline-role">Universidad Nacional de Educación a Distancia</span>
-    <div class="timeline-meta">Ongoing, for the fun of it. </div>
+    <div class="timeline-meta">For the fun of it. </div>
   </div>
 
   <div class="timeline-item">
